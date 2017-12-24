@@ -1,0 +1,58 @@
+Henry H. Chen
+henrychen1@gmail.com
+626-257-1177
+www.linkedin.com/henrychen11
+www.github.com/henrychen11
+www.henryhchen.com
+
+SKILLS
+Full Stack Software Developer with experience in JavaScript, Ruby, Ruby on Rails, React, Redux, jQuery, SQL, HTML, CSS, Git, D3, R
+
+
+PROJECTS
+Cryptos                                                                            
+www.cryptosapp.io
+https://github.com/henrychen11/cryptos
+
+- Description
+- Description
+- Description
+
+
+Liqr | (React / Redux,  Ruby on Rails, CSS, HTML)	                                                                                        
+https://liqr.herokuapp.com/
+https://github.com/henrychen11/liqr
+
+- Established a user database that allows users has the ability to create accounts that are fully encrypted using BCrypt. 
+- Integrated Cloudinary API that allows users to upload their photos directly to the cloud hosting service.
+- Used Rails backend to keep track of the the associations between users and photos. This also allows users to add photos to albums.
+- Photos are displayed on a dynamically grid system that ensures no edge gaps when the webpage resizes.
+- Used multiple joins tables to provide users the ability to comment and update their own comments.
+- Provided the ability for users to utilize the drag-and-drop feature while uploading videos
+
+TopoData | (JavaScript, D3, CSS, HTML)
+https://github.com/henrychen11/topodata
+https://topodata.henryhchen.com/
+			            
+- Leveraged d3’s data visualization library to generate an interactive map of all 50 states to project out the difference of average salary across the nation
+- Applied d3’s linear scale to render the various color shades for each state for the years 2011 to 2016
+- Allows users to select a various states and see the difference between their selected state and the state they hover on. 
+
+EXPERIENCE
+QUANTCAST | San Francisco, CA | Aug 2016 – Oct 2016 | Financial Systems Analyst 
+- Implemented a real-time dynamic Tableau financial dashboard linking to multidimensional data cube source (EssBase) and publishing to Tableau server for leadership to view
+- Built and maintained a 5-year long range forecast income and headcount model in Oracle’s Hyperion using variable drivers that calculate future projections.
+- Deployed a Tax Transfer Forecast model that utilized real-time exchange rate data and financial calculation models to accurately assess our quarterly tax implementations across the 7 global regions
+- Deep knowledge and experience of Oracle Hyperion System using SmartView ad-hoc analysis and reports
+
+PwC | San Francisco, CA | Aug 2015 – Aug  2016 | Technology Consultant 
+- Specialized in Network Infrastructure (Firewall Security) to capture traffic data using FireMon and effectively configure Cisco firewalls with the correct source, destination, and port addresses using Cisco’s CLI
+- Oversaw firewall remediation project for a major airline with over 160 Cisco firewalls with a team of 6 and work with international teams across the globe.
+- Assessed network integrity for a government power plant to effectively prevent cyber attacks
+- Projected resources management analysis to effectively complete the project while maximizing project revenue
+- Worked with project managers and subject matter specialists to communicate with internal and client teams to ensure on time project completion
+
+
+EDUCATION
+University of California, Berkeley - B.A. Economics, Major - B.S. Industrial Engineering, Minor - 2011 – 2015
+App Academy, 2017 - Software engineering curriculum with an emphasis on full-stack development, algorithms, and data structures
