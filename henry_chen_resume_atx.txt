@@ -14,9 +14,12 @@ Cryptos
 www.cryptosapp.io
 https://github.com/henrychen11/cryptos
 
-- Description
-- Description
-- Description
+- Built and published mobile application to the App Store that gathers real time cryptocurrency pricing data from our own backend API endpoints.
+- Used React Native for frontend coin details, charts, and news components that allows users to experience a more responsive interface for both portrait and landscape view.
+- Utilized MongoDB, Express, and Node to gather data from the Bittrex API and hosted with dedicated endpoint for different types of data.
+- Real-time charting data is generated using d3 visualization library and user has the option to switch from hour, day, or week view.
+- Applied News API to gather the latest news from different sources and dynamically search news pertaining to that coin when user selects their coin.
+
 
 
 Liqr | (React / Redux,  Ruby on Rails, CSS, HTML)	                                                                                        
@@ -24,11 +27,10 @@ https://liqr.herokuapp.com/
 https://github.com/henrychen11/liqr
 
 - Established a user database that allows users has the ability to create accounts that are fully encrypted using BCrypt. 
-- Integrated Cloudinary API that allows users to upload their photos directly to the cloud hosting service.
-- Used Rails backend to keep track of the the associations between users and photos. This also allows users to add photos to albums.
-- Photos are displayed on a dynamically grid system that ensures no edge gaps when the webpage resizes.
-- Used multiple joins tables to provide users the ability to comment and update their own comments.
-- Provided the ability for users to utilize the drag-and-drop feature while uploading videos
+- Integrated Cloudinary API that allows users to upload their photos directly to the cloud hosting service and provided the ability for users to utilize the drag-and-drop feature to upload.
+- Used Rails backend to keep track of the associations between users and photos. This also allows users to organize photos into albums.
+- Photos are displayed on a dynamic grid system that ensures no edge gaps when the webpage resizes. Used multiple joins tables to provide users the ability to comment and update their own comments.
+
 
 TopoData | (JavaScript, D3, CSS, HTML)
 https://github.com/henrychen11/topodata
