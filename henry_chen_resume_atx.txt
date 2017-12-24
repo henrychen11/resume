@@ -34,14 +34,13 @@ https://topodata.henryhchen.com/
 			            
 - Leveraged d3’s data visualization library to generate an interactive map of all 50 states to project out the difference of average salary across the nation
 - Applied d3’s linear scale to render the various color shades for each state for the years 2011 to 2016
-- Allowed users to select various states and see the difference between their selected state and the state users hover on. 
+- Allowed users to select various states and see the difference between their selected state and the state users hover on.
 
 EXPERIENCE
 QUANTCAST | San Francisco, CA | Aug 2016 – Oct 2016 | Financial Systems Analyst 
-- Implemented a real-time dynamic Tableau financial dashboard linking to multidimensional data cube source (EssBase) and publishing to Tableau server for leadership to view
+- Implemented a real-time dynamic Tableau financial dashboard linking to multidimensional data cube source (Essbase) and publishing to Tableau server for leadership to view
 - Built and maintained a 5-year long range forecast income and headcount model in Oracle’s Hyperion using variable drivers that calculate future projections.
-- Deployed a Tax Transfer Forecast model that utilized real-time exchange rate data and financial calculation models to accurately assess our quarterly tax implementations across the 7 global regions
-- Deep knowledge and experience of Oracle Hyperion System using SmartView ad-hoc analysis and reports
+- Deployed a Tax Transfer Forecast model that utilized real-time exchange rate data and financial calculation models to accurately assess our quarterly tax implementations across 7 global regions
 
 PwC | San Francisco, CA | Aug 2015 – Aug  2016 | Technology Consultant 
 - Specialized in Network Infrastructure (Firewall Security) to capture traffic data using FireMon and effectively configure Cisco firewalls with the correct source, destination, and port addresses using Cisco’s CLI
