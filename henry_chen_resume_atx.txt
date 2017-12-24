@@ -8,7 +8,6 @@ www.henryhchen.com
 SKILLS
 Full Stack Software Developer with experience in JavaScript, Ruby, Ruby on Rails, React, Redux, jQuery, SQL, HTML, CSS, Git, D3, R
 
-
 PROJECTS
 Cryptos                                                                            
 www.cryptosapp.io
@@ -20,8 +19,6 @@ https://github.com/henrychen11/cryptos
 - Real-time charting data is generated using d3 visualization library and user has the option to switch from hour, day, or week view.
 - Applied News API to gather the latest news from different sources and dynamically search news pertaining to that coin when user selects their coin.
 
-
-
 Liqr | (React / Redux,  Ruby on Rails, CSS, HTML)	                                                                                        
 https://liqr.herokuapp.com/
 https://github.com/henrychen11/liqr
@@ -31,14 +28,13 @@ https://github.com/henrychen11/liqr
 - Used Rails backend to keep track of the associations between users and photos. This also allows users to organize photos into albums.
 - Photos are displayed on a dynamic grid system that ensures no edge gaps when the webpage resizes. Used multiple joins tables to provide users the ability to comment and update their own comments.
 
-
 TopoData | (JavaScript, D3, CSS, HTML)
 https://github.com/henrychen11/topodata
 https://topodata.henryhchen.com/
 			            
 - Leveraged d3’s data visualization library to generate an interactive map of all 50 states to project out the difference of average salary across the nation
 - Applied d3’s linear scale to render the various color shades for each state for the years 2011 to 2016
-- Allows users to select a various states and see the difference between their selected state and the state they hover on. 
+- Allowed users to select various states and see the difference between their selected state and the state users hover on. 
 
 EXPERIENCE
 QUANTCAST | San Francisco, CA | Aug 2016 – Oct 2016 | Financial Systems Analyst 
